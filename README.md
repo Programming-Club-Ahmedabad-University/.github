@@ -1,5 +1,5 @@
 
-![stronghold logo](./res/logo.png)
+![stronghold logo](res/banner.gif)
 
 # **The Programming Club**
 
