@@ -1,5 +1,15 @@
 
-![stronghold logo](res/banner.gif)
+<p align=center><img src="./res/banner.gif">
+</p>
+  
+<p align=center>
+<a href="https://mail.google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mail.google.com"><img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://mail.google.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://mail.google.com"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://mail.google.com"><img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</p>
+
 
 # **The Programming Club**
 
