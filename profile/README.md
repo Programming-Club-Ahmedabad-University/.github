@@ -4,10 +4,10 @@
   
 <p align=center>
 <a href="https://mail.google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://mail.google.com"><img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://mail.google.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/ahduni_programmingclub/"><img src="https://img.shields.io/badge/<ahduni_programmingclub>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://mail.google.com"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://mail.google.com"><img src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UC6omkjRsql98-udXWNbVxFg"><img src="https://img.shields.io/badge/<Programming Club, Ahmedabad University>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 </p>
 
 
