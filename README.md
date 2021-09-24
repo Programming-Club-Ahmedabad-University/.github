@@ -3,19 +3,16 @@
 </p>  
 
 <p align=center>
-    <a href="https://mail.google.com">
+    <a href="mailto:">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://mail.google.com">
+    <a href="https://www.instagram.com/ahduni_programmingclub/">
         <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
-    <a href="https://mail.google.com">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://mail.google.com">
         <img src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-    <a href="https://mail.google.com">
+    <a href="https://www.youtube.com/channel/UC6omkjRsql98-udXWNbVxFg">
         <img src="https://img.shields.io/badge/YOUTUBE-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
     </a>
 </p>
