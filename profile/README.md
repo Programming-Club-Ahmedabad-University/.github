@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='../assets/banner.gif'>
+  <img src='https://github.com/Programming-Club-Ahmedabad-University/.github/blob/main/assets/banner.gif'>
 </p>  
 
 <p align=center>
@@ -24,7 +24,7 @@ The club’s aim is to create a fun, supportive learning environment which foste
 ---
 
 <p>
-  <img src='../assets/expert.png' align='left' width='150px'>
+  <img src='https://github.com/Programming-Club-Ahmedabad-University/.github/blob/main/assets/expert.png' align='left' width='150px'>
 </p>  
 
 ## Learning from the Experts? We have it sorted
@@ -34,7 +34,7 @@ We hold engaging and informative `#AskMeAnything` Sessions with our industry lea
 ---
 
 <p>
-  <img src='../assets/workshop.png' align='right' width='150px'>
+  <img src='https://github.com/Programming-Club-Ahmedabad-University/.github/blob/main/assets/workshop.png' align='right' width='150px'>
 </p>  
 
 
@@ -45,7 +45,7 @@ We hold engaging and informative `#AskMeAnything` Sessions with our industry lea
 ---
 
 <p>
-  <img src='../assets/challenge.png' align='left' width='150px'>
+  <img src='https://github.com/Programming-Club-Ahmedabad-University/.github/blob/main/assets/challenge.png' align='left' width='150px'>
 </p>  
 
 ## Do you like challenges? Worry not!
